@@ -1,0 +1,81 @@
+body {
+    color: transparent;
+    background-image: linear-gradient(to right, #0066ff, #0084ff, #5869fd, #8765ff, #4134ff);    
+    background-clip: text;
+    animation: color 5s linear infinite;
+    background-size: 500%;    
+}
+
+@keyframes color {
+    from {
+        background-position: 0% 50%;
+    }
+
+    to {
+        background-position: 100% 50%;
+    }
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+ul.nombre{
+    color: black;
+}
+table.tabla1{
+    margin: 0 auto;
+    background-color: white;
+    color: black;
+}
+td.fila1{
+    width: 9cm;
+    height: 3cm;
+    border: 1px solid;
+    border-color: blue;
+    text-align: center;
+    color: black;
+}
+td.fila2{
+    width: 9cm;
+    height: 3cm;
+    border: 1px solid;
+    border-color: blue;
+    text-align: center;
+    color: black;
+}
+td.fila3{
+    width: 9cm;
+    height: 3cm;
+    border: 1px solid;
+    border-color: blue;
+    text-align: center;
+    color: black;
+}
+td.fila4{
+    width: 9cm;
+    height: 3cm;
+    border: 1px solid;
+    border-color: blue;
+    text-align: center;
+    color: black;
+}
+td.fila5{
+    width: 9cm;
+    height: 3cm;
+    border: 1px solid;
+    border-color: blue;
+    text-align: center;
+    color: black;
+}
+ol{
+    text-align: left;
+}
+li a{
+    text-decoration: none ;
+    color: black;
+}
+h5{
+    color: black;
+}
