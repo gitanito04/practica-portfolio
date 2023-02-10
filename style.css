@@ -2,7 +2,6 @@ body {
     color: transparent;
     background-image: linear-gradient(to right, #0066ff, #0084ff, #5869fd, #8765ff, #4134ff);    
     background-clip: text;
-    animation: color 5s linear infinite;
     background-size: 500%;    
 }
 
